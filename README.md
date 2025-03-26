@@ -12,6 +12,14 @@ Must Read papers about Awesome-Efficient-LRM-Reasoning
 
 [2025-03] We create this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
 
+---
+
+## 🔥 Table of Contents
+
+[TOC]
+
+---
+
 ## 📜Content
 
 ### Abstract
@@ -25,10 +33,6 @@ We hope this survey serves as a foundation for further exploration and inspires 
 
 ### Introduction
 
-
----
-
-## Table of Contents
 
 
 

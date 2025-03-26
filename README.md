@@ -67,7 +67,14 @@ We hope this survey serves as a foundation for further exploration and inspires 
 
 ### Introduction
 
+In the age of LRMs, we propose that "**Efficiency is the essence of intelligence.**"
+Just as a wise human knows when to stop thinking and start deciding, a wise model should know when to halt unnecessary deliberation. 
+An intelligent model should manipulate the token economy, i.e., allocating tokens purposefully, skipping redundancy, and optimizing the path to a solution. Rather than naively traversing every possible reasoning path, it should emulate a master strategist, balancing cost and performance with elegant precision.
 
+To summarize, this survey makes the following key contributions to the literature:
+- Instead of offering a general overview of LRMs, we focus on the emerging and critical topic of **efficient reasoning** in LRMs, providing an in-depth and targeted analysis.
+- We identify and characterize common patterns of reasoning inefficiency, and outline the current challenges that are unique to improving reasoning efficiency in large models.
+- We provide a comprehensive review of recent advancements aimed at enhancing reasoning efficiency, structured across the end-to-end LRM development pipeline, from pretraining and supervised fine-tuning to reinforcement learning and inference.
 
 
 ---

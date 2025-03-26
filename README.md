@@ -16,13 +16,6 @@ Must Read papers about Awesome-Efficient-LRM-Reasoning
 
 ## 🔥 Table of Contents
 
-[TOC]
-
----
-
-## 📜Content
-
-### Abstract
 - [Awesome-Efficient-LRM-Reasoning](#awesome-efficient-lrm-reasoning)
   - [🔔 News](#-news)
   - [🔥 Table of Contents](#-table-of-contents)
@@ -58,6 +51,12 @@ Must Read papers about Awesome-Efficient-LRM-Reasoning
   - [🎉 Contribution](#-contribution)
     - [Contributing to this paper list](#contributing-to-this-paper-list)
     - [Contributors](#contributors)
+---
+
+## 📜Content
+
+### Abstract
+
 
 **Recent Large Reasoning Models (LRMs)**, such as DeepSeek-R1 and OpenAI o1, have demonstrated strong performance gains by scaling up the length of Chain-of-Thought (CoT) reasoning during inference. However, a growing concern lies in their tendency to produce excessively long and inefficient reasoning traces, which are often filled with redundant content (e.g., repeated definitions), over-analysis of simple problems, and superficial exploration of multiple reasoning paths for harder tasks. 
 This inefficiency introduces significant challenges for training, inference, and real-world deployment (e.g., in agent-based systems), where token economy is critical. 

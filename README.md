@@ -120,9 +120,37 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Length Budgeting
 
+- [Scaling llm test-time compute optimally can be more effective than scaling model parameters](https://arxiv.org/abs/2408.03314)
+- [Concise thoughts: Impact of output length on llm reasoning and cost](https://arxiv.org/abs/2407.19825)
+- [Token-budget-aware llm reasoning](https://arxiv.org/abs/2412.18547)
+- [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://arxiv.org/abs/2503.05179)
+- [Guiding language model reasoning with planning tokens](https://arxiv.org/abs/2310.05707)
+- [Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600)
+- [s1: Simple test-time scaling](https://arxiv.org/abs/2501.19393)
+- [SafeChain: Safety of Language Models with Long Chain-of-Thought Reasoning Capabilities](https://arxiv.org/abs/2502.12025)
+- [The impact of reasoning step length on large language models](https://arxiv.org/abs/2401.04925v3)
+- [The benefits of a concise chain of thought on problem-solving in large language models](https://arxiv.org/abs/2401.05618)
+- [How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach](https://arxiv.org/abs/2503.01141)
+- [Make every penny count: Difficulty-adaptive self-consistency for cost-efficient reasoning](https://arxiv.org/abs/2408.13457)
+- [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/abs/2412.20993)
+
+
 #### System Switch
 
+- [Dual processes in reasoning?](https://www.sciencedirect.com/science/article/pii/0010027774900171)
+- [Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918)
+- [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/abs/2407.14414)
+- [Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking](https://arxiv.org/abs/2501.01306)
+- [DynaThink: Fast or slow? A dynamic decision-making framework for large language models](https://arxiv.org/abs/2407.01009)
+- [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/abs/2408.08862)
+
 #### Model Switch
+
+- [Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding](https://arxiv.org/abs/2411.13157)
+- [Speculative Decoding with Big Little Decoder](https://api.semanticscholar.org/CorpusID:256868484)
+- [EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)
+- [EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](https://arxiv.org/abs/2406.16858)
+- 
 
 #### Parallel Search
 

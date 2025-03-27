@@ -150,9 +150,24 @@ To summarize, this survey makes the following key contributions to the literatur
 - [Speculative Decoding with Big Little Decoder](https://api.semanticscholar.org/CorpusID:256868484)
 - [EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)
 - [EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](https://arxiv.org/abs/2406.16858)
-- 
+- [Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://api.semanticscholar.org/CorpusID:267061277)
+- [LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding](https://arxiv.org/abs/2404.16710)
+- [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665)
+- [MixLLM: Dynamic Routing in Mixed Large Language Models](https://arxiv.org/abs/2502.18482)
+- [Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models](https://arxiv.org/abs/2311.08692)
 
 #### Parallel Search
+
+- [Scaling llm test-time compute optimally can be more effective than scaling model parameters](https://arxiv.org/abs/2408.03314)
+- [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://openreview.net/forum?id=1PL1NIMMrw)
+- [Let's Verify Step by Step](https://openreview.net/forum?id=v8L0pN6EOi)
+- [Fast Best-of-N Decoding via Speculative Rejection](https://arxiv.org/abs/2410.20290)
+- [TreeBoN: Enhancing Inference-Time Alignment with Speculative Tree-Search and Best-of-N Sampling](https://api.semanticscholar.org/CorpusID:273502823)
+- [Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422)
+- [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/abs/2503.00031)
+- [Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models](https://arxiv.org/abs/2502.19918)
+- [Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback](https://api.semanticscholar.org/CorpusID:275788823)
+
 
 
 ### 💫 Efficient Reasoning with SFT

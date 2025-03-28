@@ -71,6 +71,9 @@ We hope this survey serves as a foundation for further exploration and inspires 
 In the age of LRMs, we propose that "**Efficiency is the essence of intelligence.**"
 Just as a wise human knows when to stop thinking and start deciding, a wise model should know when to halt unnecessary deliberation. 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0656325 (finish the third part)
 An intelligent model should manipulate the token economy, i.e., allocating tokens purposefully, skipping redundancy, and optimizing the path to a solution. Rather than naively traversing every possible reasoning path, it should emulate a master strategist, balancing cost and performance with elegant precision.
 
 To summarize, this survey makes the following key contributions to the literature:
@@ -174,6 +177,7 @@ To summarize, this survey makes the following key contributions to the literatur
 ### 💫 Efficient Reasoning with SFT
 
 #### Reasoning Chain Compression
+<<<<<<< HEAD
 - [TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067)
 - [Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2502.13260)
 - [Can Language Models Learn to Skip Steps?](https://arxiv.org/abs/2411.01855)
@@ -243,6 +247,27 @@ To summarize, this survey makes the following key contributions to the literatur
 
 
 
+=======
+
+#### Latent-Space SFT
+
+### 🧩 Efficient Reasoning with Reinforcement Learning
+
+#### Efficient Reinforcement Learning with Length Reward
+
+#### Efficient Reinforcement Learning without Length Reward
+
+### 💬 Efficient Reinforcement Learning without Length Reward
+
+#### Pretraining with Latent Space
+
+#### Subquadratic Attention
+
+#### Linearization
+
+#### Efficient Reasoning with Subquadratic Attention
+
+>>>>>>> 0656325 (finish the third part)
 ### 🔖 Future Directions
 
 #### Efficient Multimodal Reasoning and Video Reasoning
@@ -252,6 +277,7 @@ To summarize, this survey makes the following key contributions to the literatur
 - [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785)
 - [A survey on facial emotion recognition techniques: A state-of-the-art literature review](https://www.sciencedirect.com/science/article/abs/pii/S0020025521010136)
 - [From Show to Tell: A Survey on Deep Learning-based Image Captioning](https://arxiv.org/abs/2107.06912)
+<<<<<<< HEAD
 - [Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?](https://arxiv.org/abs/2503.06252)
 - [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)
 - [Mathematical language models: A survey](https://arxiv.org/abs/2312.07622)
@@ -291,6 +317,19 @@ To summarize, this survey makes the following key contributions to the literatur
 
 - [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
 - [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs](https://arxiv.org/abs/2503.15793)
+=======
+- 
+
+#### Efficient Test-time Scaling and Infinity Thinking
+
+#### Efficient and Trustworthy Reasoning
+
+#### Building Efficient Reasoning Applications
+
+#### Evaluation and Benchmark
+
+
+>>>>>>> 0656325 (finish the third part)
 
 
 ---
@@ -311,6 +350,9 @@ To summarize, this survey makes the following key contributions to the literatur
 ## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=XiaoYee/Awesome_Efficient_LRM_Reasoning&type=Date)](https://star-history.com/#XiaoYee/Awesome_Efficient_LRM_Reasoning&Date)
+<<<<<<< HEAD
 =======
 An intelligent
 >>>>>>> caf46aa (finish the third part)
+=======
+>>>>>>> 0656325 (finish the third part)

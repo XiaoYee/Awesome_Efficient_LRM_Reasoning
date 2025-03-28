@@ -9,8 +9,8 @@ Must Read papers about Awesome-Efficient-LRM-Reasoning
 ---
 
 ## 🔔 News
-[2025-03] We release our survey at [https://arxiv.org/abs/2503.21614](https://arxiv.org/abs/2503.21614).
-[2025-03] We createed this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
+- [2025-03] We release our survey at [https://arxiv.org/abs/2503.21614](https://arxiv.org/abs/2503.21614).
+- [2025-03] We createed this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
 
 ---
 

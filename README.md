@@ -194,6 +194,17 @@ To summarize, this survey makes the following key contributions to the literatur
 
 
 
+### 🔖 Future Directions
+
+#### Efficient Multimodal Reasoning and Video Reasoning
+
+#### Efficient Test-time Scaling and Infinity Thinking
+
+#### Efficient and Trustworthy Reasoning
+
+#### Building Efficient Reasoning Applications
+
+#### Evaluation and Benchmark
 
 ---
 ## 🎉 Contribution

@@ -273,23 +273,24 @@ To summarize, this survey makes the following key contributions to the literatur
   
 #### Efficient Test-time Scaling and Infinity Thinking
 
-- [Efficient Test-Time Scaling via Self-Calibration]
-- [Dynamic self-consistency: Leveraging reasoning paths for efficient llm sampling]
+- [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/abs/2503.00031)
+- [Dynamic self-consistency: Leveraging reasoning paths for efficient llm sampling](https://arxiv.org/abs/2408.17017)
 
 #### Efficient and Trustworthy Reasoning
 
-- [Deliberative alignment: Reasoning enables safer language models]
-- [X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability]
+- [Deliberative alignment: Reasoning enables safer language models](https://arxiv.org/abs/2412.16339)
+- [X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability](https://arxiv.org/abs/2502.09990)
 
 #### Building Efficient Reasoning Applications
 
-- [Chain-of-Retrieval Augmented Generation]
-- [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks]
+- [Chain-of-Retrieval Augmented Generation](https://arxiv.org/abs/2501.14342)
+- [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://arxiv.org/abs/2502.08235)
 
 #### Evaluation and Benchmark
 
-- [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs]
-- [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs]
+- [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
+- [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs](https://arxiv.org/abs/2503.15793)
+
 
 ---
 ## 🎉 Contribution

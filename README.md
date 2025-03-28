@@ -4,12 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/XiaoYee/Awesome_Efficient_LRM_Reasoning?color=green) 
 
-Must Read papers about Awesome-Efficient-LRM-Reasoning
-
 ---
 
 ## 🔔 News
-- [2025-03] We released our survey at [https://arxiv.org/abs/2503.21614](https://arxiv.org/abs/2503.21614).
+- [2025-03] We released our survey "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)".
 - [2025-03] We created this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
 
 ---

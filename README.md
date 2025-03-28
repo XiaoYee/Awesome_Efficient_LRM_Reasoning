@@ -37,7 +37,7 @@ Must Read papers about Awesome-Efficient-LRM-Reasoning
     - [🧩 Efficient Reasoning with Reinforcement Learning](#-efficient-reasoning-with-reinforcement-learning)
       - [Efficient Reinforcement Learning with Length Reward](#efficient-reinforcement-learning-with-length-reward)
       - [Efficient Reinforcement Learning without Length Reward](#efficient-reinforcement-learning-without-length-reward)
-    - [💬 Efficient Reinforcement Learning without Length Reward](#-efficient-reinforcement-learning-without-length-reward)
+    - [💬 Efficient Reasoning Learning during Pre-training](#-efficient-reasoning-during-pre-training)
       - [Pretraining with Latent Space](#pretraining-with-latent-space)
       - [Subquadratic Attention](#subquadratic-attention)
       - [Linearization](#linearization)
@@ -182,7 +182,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Reinforcement Learning without Length Reward
 
-### 💬 Efficient Reinforcement Learning without Length Reward
+### 💬 Efficient Reasoning Learning during Pre-training
 
 #### Pretraining with Latent Space
 

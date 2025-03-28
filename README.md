@@ -198,33 +198,33 @@ To summarize, this survey makes the following key contributions to the literatur
 #### Pretraining with Latent Space
 
 - [Byte latent transformer: Patches scale better than tokens](https://arxiv.org/abs/2412.09871)
-- [Large Concept Models: Language Modeling in a Sentence Representation Space]
-- [LLM Pretraining with Continuous Concepts]
-- [Scalable Language Models with Posterior Inference of Latent Thought Vectors]
+- [Large Concept Models: Language Modeling in a Sentence Representation Space](https://arxiv.org/abs/2412.08821)
+- [LLM Pretraining with Continuous Concepts](https://arxiv.org/abs/2502.08524)
+- [Scalable Language Models with Posterior Inference of Latent Thought Vectors](https://arxiv.org/abs/2502.01567)
 
 #### Subquadratic Attention
 
-- [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention]
-- [LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid]
-- [Gated linear attention transformers with hardware-efficient training]
-- [Gated Delta Networks: Improving Mamba2 with Delta Rule]
-- [MoM: Linear Sequence Modeling with Mixture-of-Memories]
-- [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality]
-- [RWKV-7 "Goose" with Expressive Dynamic State Evolution]
-- [Native sparse attention: Hardware-aligned and natively trainable sparse attention]
-- [MoBA: Mixture of Block Attention for Long-Context LLMs]
+- [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention](https://arxiv.org/abs/2405.17381)
+- [LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid](https://arxiv.org/abs/2502.07563)
+- [Gated linear attention transformers with hardware-efficient training](https://arxiv.org/abs/2312.06635)
+- [Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464)
+- [MoM: Linear Sequence Modeling with Mixture-of-Memories](https://www.arxiv.org/abs/2502.13685)
+- [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060)
+- [RWKV-7 "Goose" with Expressive Dynamic State Evolution](https://arxiv.org/abs/2503.14456)
+- [Native sparse attention: Hardware-aligned and natively trainable sparse attention](https://arxiv.org/abs/2502.11089)
+- [MoBA: Mixture of Block Attention for Long-Context LLMs](https://arxiv.org/abs/2502.13189)
 
 #### Linearization
 
-- [Liger: Linearizing Large Language Models to Gated Recurrent Structures]
-- [Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing]
-- [LoLCATs: On Low-Rank Linearizing of Large Language Models]
+- [Liger: Linearizing Large Language Models to Gated Recurrent Structures](https://arxiv.org/abs/2503.01496)
+- [Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing](https://arxiv.org/abs/2502.14458)
+- [LoLCATs: On Low-Rank Linearizing of Large Language Models](https://arxiv.org/abs/2410.10254)
 
 #### Efficient Reasoning with Subquadratic Attention
 
-- [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners]
-- [Compositional Reasoning with Transformers, RNNs, and Chain of Thought]
-- [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning]
+- [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](https://arxiv.org/abs/2502.20339)
+- [Compositional Reasoning with Transformers, RNNs, and Chain of Thought](https://arxiv.org/abs/2503.01544)
+- [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558v1)
 
 
 

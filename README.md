@@ -246,9 +246,30 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Multimodal Reasoning and Video Reasoning
 
-- [Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?]
-- [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought]
-- [Efficient Reasoning with Hidden Thinking]
+- [A Survey of Multimodel Large Language Models](https://arxiv.org/abs/2306.13549)
+- [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://arxiv.org/abs/2503.07365)
+- [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785)
+- [A survey on facial emotion recognition techniques: A state-of-the-art literature review](https://www.sciencedirect.com/science/article/abs/pii/S0020025521010136)
+- [From Show to Tell: A Survey on Deep Learning-based Image Captioning](https://arxiv.org/abs/2107.06912)
+- [Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?](https://arxiv.org/abs/2503.06252)
+- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)
+- [Mathematical language models: A survey](https://arxiv.org/abs/2312.07622)
+- [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)
+- [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)
+- [Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?](https://arxiv.org/abs/2503.06252)
+- [Qwen2-vl: Enhancing vision-language model's perception of the world at any resolution](https://arxiv.org/abs/2409.12191)
+- [Internvl: Scaling up vision foundation models and aligning for generic visual-linguistic tasks](https://arxiv.org/abs/2312.14238)
+- [InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition](https://arxiv.org/abs/2309.15112)
+- [Internlm: A multilingual language model with progressively enhanced capabilities](https://github.com/InternLM/InternLM-techreport)
+- [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)
+- [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://huggingface.co/Skywork/Skywork-R1V-38B)
+- [Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search](https://arxiv.org/abs/2412.18319)
+- [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/abs/2503.06520)
+- [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186)
+- [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/abs/2503.07536)
+- [R1-Zero's" Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132)
+- [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/abs/2502.19634)
+- [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/abs/2503.06749)
   
 #### Efficient Test-time Scaling and Infinity Thinking
 

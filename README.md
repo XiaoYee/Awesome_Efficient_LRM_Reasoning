@@ -173,9 +173,20 @@ To summarize, this survey makes the following key contributions to the literatur
 ### 💫 Efficient Reasoning with SFT
 
 #### Reasoning Chain Compression
+- [TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067)
+- [Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2502.13260)
+- [Can Language Models Learn to Skip Steps?](https://arxiv.org/abs/2411.01855)
+
 
 #### Latent-Space SFT
-
+- [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
+- [Compressed Chain of Thought: Efficient Reasoning Through Dense Representations](https://arxiv.org/abs/2412.13171)
+- [CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation](https://arxiv.org/abs/2502.21074)
+- [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)
+- [SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs](https://arxiv.org/abs/2502.12134)
+- [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
+- [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
+- [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
 ### 🧩 Efficient Reasoning with Reinforcement Learning
 
 #### Efficient Reinforcement Learning with Length Reward

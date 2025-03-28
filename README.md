@@ -197,11 +197,34 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Pretraining with Latent Space
 
+- [Byte latent transformer: Patches scale better than tokens](https://arxiv.org/abs/2412.09871)
+- [Large Concept Models: Language Modeling in a Sentence Representation Space]
+- [LLM Pretraining with Continuous Concepts]
+- [Scalable Language Models with Posterior Inference of Latent Thought Vectors]
+
 #### Subquadratic Attention
+
+- [Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention]
+- [LASP-2: Rethinking Sequence Parallelism for Linear Attention and Its Hybrid]
+- [Gated linear attention transformers with hardware-efficient training]
+- [Gated Delta Networks: Improving Mamba2 with Delta Rule]
+- [MoM: Linear Sequence Modeling with Mixture-of-Memories]
+- [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality]
+- [RWKV-7 "Goose" with Expressive Dynamic State Evolution]
+- [Native sparse attention: Hardware-aligned and natively trainable sparse attention]
+- [MoBA: Mixture of Block Attention for Long-Context LLMs]
 
 #### Linearization
 
+- [Liger: Linearizing Large Language Models to Gated Recurrent Structures]
+- [Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing]
+- [LoLCATs: On Low-Rank Linearizing of Large Language Models]
+
 #### Efficient Reasoning with Subquadratic Attention
+
+- [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners]
+- [Compositional Reasoning with Transformers, RNNs, and Chain of Thought]
+- [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning]
 
 
 
@@ -209,13 +232,29 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Multimodal Reasoning and Video Reasoning
 
+- [Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?]
+- [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought]
+- [Efficient Reasoning with Hidden Thinking]
+  
 #### Efficient Test-time Scaling and Infinity Thinking
+
+- [Efficient Test-Time Scaling via Self-Calibration]
+- [Dynamic self-consistency: Leveraging reasoning paths for efficient llm sampling]
 
 #### Efficient and Trustworthy Reasoning
 
+- [Deliberative alignment: Reasoning enables safer language models]
+- [X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability]
+
 #### Building Efficient Reasoning Applications
 
+- [Chain-of-Retrieval Augmented Generation]
+- [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks]
+
 #### Evaluation and Benchmark
+
+- [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs]
+- [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs]
 
 ---
 ## 🎉 Contribution

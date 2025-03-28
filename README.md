@@ -176,6 +176,9 @@ To summarize, this survey makes the following key contributions to the literatur
 - [TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067)
 - [Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2502.13260)
 - [Can Language Models Learn to Skip Steps?](https://arxiv.org/abs/2411.01855)
+- [Distilling System 2 into System 1](https://arxiv.org/abs/2407.06023)
+- [C3oT: Generating Shorter Chain-of-Thought without Compromising Effectiveness](https://arxiv.org/abs/2412.11664)
+- [Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122)
 
 
 #### Latent-Space SFT
@@ -187,11 +190,22 @@ To summarize, this survey makes the following key contributions to the literatur
 - [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838)
 - [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
+
+  
 ### 🧩 Efficient Reasoning with Reinforcement Learning
 
 #### Efficient Reinforcement Learning with Length Reward
-
+- [O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](https://arxiv.org/abs/2501.12570)
+- [Training Language Models to Reason Efficiently](https://arxiv.org/abs/2502.04463)
+- [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://www.arxiv.org/abs/2503.04697)
+- [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
+- [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/abs/2503.04472)
+- [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
+  
 #### Efficient Reinforcement Learning without Length Reward
+- [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572)
+- [Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization](https://arxiv.org/abs/2501.17974)
+- [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
 
 ### 💬 Efficient Reasoning during Pre-training
 

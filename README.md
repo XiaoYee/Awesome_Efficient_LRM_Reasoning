@@ -61,10 +61,9 @@
 This inefficiency introduces significant challenges for training, inference, and real-world deployment (e.g., in agent-based systems), where token economy is critical. 
 In this survey, we provide a comprehensive overview of recent efforts aimed at improving reasoning efficiency in LRMs, with a particular focus on the unique challenges that arise in this new paradigm.
 We identify common patterns of inefficiency, examine methods proposed across the LRM lifecycle, i.e., from pretraining to inference, and discuss promising future directions for research. 
-To support ongoing development, we also maintain a real-time [GitHub repository](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning) tracking recent progress in the field.
 We hope this survey serves as a foundation for further exploration and inspires innovation in this rapidly evolving area.
 
-### 🚀 Introduction
+### 👀 Introduction
 
 In the age of LRMs, we propose that "**Efficiency is the essence of intelligence.**"
 Just as a wise human knows when to stop thinking and start deciding, a wise model should know when to halt unnecessary deliberation. 
@@ -78,7 +77,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 ---
 
-## 🌄 Papers
+## 🚀 Papers
 
 ### 🤖 Reasoning Inefficiency: Definition, Patterns and Challenges
 

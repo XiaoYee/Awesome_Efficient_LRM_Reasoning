@@ -1,4 +1,4 @@
-# Awesome-Efficient-LRM-Reasoning
+# A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond
 [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2503.21614)  [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/suzhaochen0110/status/1905461785693749709?s=46)
 
@@ -14,18 +14,18 @@
 
 ---
 
+![Taxonomy](figs/figure2.png)
+
+
 ## 🔥 Table of Contents
 
 - [Awesome-Efficient-LRM-Reasoning](#awesome-efficient-lrm-reasoning)
   - [🔔 News](#-news)
   - [🔥 Table of Contents](#-table-of-contents)
   - [📜Content](#content)
-    - [💮 Abstract](#-abstract)
+    <!-- - [💮 Abstract](#-abstract) -->
     - [👀 Introduction](#-introduction)
   - [🚀 Papers](#-papers)
-    - [🤖 Reasoning Inefficiency: Definition, Patterns and Challenges](#-reasoning-inefficiency-definition-patterns-and-challenges)
-      - [Patterns of Reasoning Inefficiency](#patterns-of-reasoning-inefficiency)
-      - [Unique Challenges for Efficient Reasoning in the Era of LRMs](#unique-challenges-for-efficient-reasoning-in-the-era-of-lrms)
     - [💭 Efficient Reasoning during Inference](#-efficient-reasoning-during-inference)
       - [Length Budgeting](#length-budgeting)
       - [System Switch](#system-switch)
@@ -51,19 +51,11 @@
   - [🎉 Contribution](#-contribution)
     - [Contributing to this paper list](#contributing-to-this-paper-list)
     - [Contributors](#contributors)
-  - [⭐️ Star History](#️-star-history)
+  <!-- - [⭐️ Star History](#️-star-history) -->
 ---
 
 ## 📜Content
 
-### 💮 Abstract
-
-
-**Recent Large Reasoning Models (LRMs)**, such as DeepSeek-R1 and OpenAI o1, have demonstrated strong performance gains by scaling up the length of Chain-of-Thought (CoT) reasoning during inference. However, a growing concern lies in their tendency to produce excessively long and inefficient reasoning traces, which are often filled with redundant content (e.g., repeated definitions), over-analysis of simple problems, and superficial exploration of multiple reasoning paths for harder tasks. 
-This inefficiency introduces significant challenges for training, inference, and real-world deployment (e.g., in agent-based systems), where token economy is critical. 
-In this survey, we provide a comprehensive overview of recent efforts aimed at improving reasoning efficiency in LRMs, with a particular focus on the unique challenges that arise in this new paradigm.
-We identify common patterns of inefficiency, examine methods proposed across the LRM lifecycle, i.e., from pretraining to inference, and discuss promising future directions for research. 
-We hope this survey serves as a foundation for further exploration and inspires innovation in this rapidly evolving area.
 
 ### 👀 Introduction
 
@@ -80,39 +72,6 @@ To summarize, this survey makes the following key contributions to the literatur
 ---
 
 ## 🚀 Papers
-
-### 🤖 Reasoning Inefficiency: Definition, Patterns and Challenges
-
-#### Patterns of Reasoning Inefficiency
-
-- [Openai o1 system card](https://arxiv.org/abs/2412.16720)
-- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
-- [QwQ: Reflect Deeply on the Boundaries of the Unknown](https://qwenlm.github.io/blog/qwq-32b-preview/)
-- [Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122)
-- [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/abs/2501.03124)
-- [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)
-- [O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](https://arxiv.org/abs/2501.12570)
-- [Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122)
-- [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/abs/2502.07374)
-- [Over-reasoning and redundant calculation of large language models](https://arxiv.org/abs/2401.11467)
-- [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187)
-- [Deconstructing Long Chain-of-Thought: A Structured Reasoning Optimization Framework for Long CoT Distillation](https://arxiv.org/abs/2503.16385)
-- [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585)
-- [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
-- [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)
-- [What's Behind PPO's Collapse in Long-CoT? Value Optimization Holds the Secret](https://arxiv.org/abs/2503.01491)
-- [Understanding the planning of LLM agents: A survey](https://arxiv.org/abs/2402.02716)
-
-#### Unique Challenges for Efficient Reasoning in the Era of LRMs
-
-- [The lessons of developing process reward models in mathematical reasoning](https://arxiv.org/abs/2501.07301)
-- [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
-- [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/abs/2502.07266)
-- [Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning](https://arxiv.org/abs/2502.18080)
-- [How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach](https://arxiv.org/abs/2503.01141)
-- [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](https://arxiv.org/abs/2502.20339)
-- [Compositional Reasoning with Transformers, RNNs, and Chain of Thought](https://arxiv.org/abs/2503.01544)
-- [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183)
 
 
 ### 💭 Efficient Reasoning during Inference
@@ -246,30 +205,8 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Multimodal Reasoning and Video Reasoning
 
-- [A Survey of Multimodel Large Language Models](https://arxiv.org/abs/2306.13549)
-- [MM-Eureka: Exploring Visual Aha Moment with Rule-based Large-scale Reinforcement Learning](https://arxiv.org/abs/2503.07365)
-- [Visual-RFT: Visual Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.01785)
-- [A survey on facial emotion recognition techniques: A state-of-the-art literature review](https://www.sciencedirect.com/science/article/abs/pii/S0020025521010136)
-- [From Show to Tell: A Survey on Deep Learning-based Image Captioning](https://arxiv.org/abs/2107.06912)
 - [Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?](https://arxiv.org/abs/2503.06252)
-- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131)
-- [Mathematical language models: A survey](https://arxiv.org/abs/2312.07622)
-- [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)
-- [Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey](https://arxiv.org/abs/2503.12605)
-- [Can Atomic Step Decomposition Enhance the Self-structured Reasoning of Multimodal Large Models?](https://arxiv.org/abs/2503.06252)
-- [Qwen2-vl: Enhancing vision-language model's perception of the world at any resolution](https://arxiv.org/abs/2409.12191)
-- [Internvl: Scaling up vision foundation models and aligning for generic visual-linguistic tasks](https://arxiv.org/abs/2312.14238)
-- [InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition](https://arxiv.org/abs/2309.15112)
-- [Internlm: A multilingual language model with progressively enhanced capabilities](https://github.com/InternLM/InternLM-techreport)
-- [R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning](https://arxiv.org/abs/2503.05379)
 - [Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought](https://huggingface.co/Skywork/Skywork-R1V-38B)
-- [Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search](https://arxiv.org/abs/2412.18319)
-- [Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement](https://arxiv.org/abs/2503.06520)
-- [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs](https://arxiv.org/abs/2501.06186)
-- [LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL](https://arxiv.org/abs/2503.07536)
-- [R1-Zero's" Aha Moment" in Visual Reasoning on a 2B Non-SFT Model](https://arxiv.org/abs/2503.05132)
-- [MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning](https://arxiv.org/abs/2502.19634)
-- [Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models](https://arxiv.org/abs/2503.06749)
   
 #### Efficient Test-time Scaling and Infinity Thinking
 
@@ -293,6 +230,21 @@ To summarize, this survey makes the following key contributions to the literatur
 
 
 ---
+
+
+
+## Resources
+
+**Reading lists related to Efficient Reasoning**
+
+- [hemingkx/Awesome-Efficient-Reasoning](https://github.com/hemingkx/Awesome-Efficient-Reasoning)
+- [Eclipsess/Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+- [Hongcheng-Gao/Awesome-Long2short-on-LRMs](https://github.com/Hongcheng-Gao/Awesome-Long2short-on-LRMs)
+- [Blueyee/Efficient-CoT-LRMs](https://github.com/Blueyee/Efficient-CoT-LRMs)
+- [EIT-NLP/Awesome-Latent-CoT](https://github.com/EIT-NLP/Awesome-Latent-CoT)
+- [yzhangchuck/awesome-llm-reasoning-long2short-papers](https://github.com/yzhangchuck/awesome-llm-reasoning-long2short-papers)
+
+
 ## 🎉 Contribution
 
 ### Contributing to this paper list
@@ -307,6 +259,6 @@ To summarize, this survey makes the following key contributions to the literatur
 
 ---
 
-## ⭐️ Star History
+<!-- ## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=XiaoYee/Awesome_Efficient_LRM_Reasoning&type=Date)](https://star-history.com/#XiaoYee/Awesome_Efficient_LRM_Reasoning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=XiaoYee/Awesome_Efficient_LRM_Reasoning&type=Date)](https://star-history.com/#XiaoYee/Awesome_Efficient_LRM_Reasoning&Date) -->

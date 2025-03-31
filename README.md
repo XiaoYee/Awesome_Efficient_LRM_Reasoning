@@ -17,6 +17,22 @@
 ![Taxonomy](figs/figure2.png)
 
 
+
+> If you find some important work missed, it would be super helpful to let me know (`quxiaoye@pjlab.org.cn`). Thanks!
+
+> If you find our survey useful for your research, please consider citing:
+
+```
+@article{qu2025survey,
+  title={A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond},
+  author={Qu, Xiaoye and Li, Yafu and Su, Zhaochen and Sun, Weigao and Yan, Jianhao and Liu, Dongrui and Cui, Ganqu and Liu, Daizong and Liang, Shuxian and He, Junxian and others},
+  journal={arXiv preprint arXiv:2503.21614},
+  year={2025}
+}
+
+```
+
+
 ## 🔥 Table of Contents
 
 - [Awesome-Efficient-LRM-Reasoning](#awesome-efficient-lrm-reasoning)

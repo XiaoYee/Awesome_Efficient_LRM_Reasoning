@@ -9,6 +9,7 @@
 ---
 
 ## 🔔 News
+- [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction. 
 - [2025-03] We released our survey "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)".
 - [2025-03] We created this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
 
@@ -46,6 +47,7 @@
       - [Length Budgeting](#length-budgeting)
       - [System Switch](#system-switch)
       - [Model Switch](#model-switch)
+      - [Model Merge](#model-merge)
       - [Parallel Search](#parallel-search)
     - [💫 Efficient Reasoning with SFT](#-efficient-reasoning-with-sft)
       - [Reasoning Chain Compression](#reasoning-chain-compression)
@@ -129,6 +131,10 @@ To summarize, this survey makes the following key contributions to the literatur
 - [RouteLLM: Learning to Route LLMs with Preference Data](https://arxiv.org/abs/2406.18665)
 - [MixLLM: Dynamic Routing in Mixed Large Language Models](https://arxiv.org/abs/2502.18482)
 - [Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models](https://arxiv.org/abs/2311.08692)
+
+#### Model Merge
+
+- [Unlocking efficient long-to-short llm reasoning with model merging](https://arxiv.org/abs/2503.20641)
 
 #### Parallel Search
 

@@ -10,7 +10,7 @@
 
 ## 🔔 News
 - [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction. 
-- [2025-03] We released our survey "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)". This is the first survey for efficient reasoning of Large Reasoning Models, covering both language and multimodality.
+- [2025-03] We released our survey "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)". This is the **first survey** for efficient reasoning of **Large Reasoning Models**, covering both language and multimodality.
 - [2025-03] We created this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
 
 ---
@@ -18,10 +18,6 @@
 ![Author](figs/author.png)
 
 ![Taxonomy](figs/figure2.png)
-
-
-
-> If you find some important work missed, it would be super helpful to let me know (`quxiaoye@pjlab.org.cn`). Thanks!
 
 > If you find our survey useful for your research, please consider citing:
 

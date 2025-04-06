@@ -15,6 +15,8 @@
 
 ---
 
+![Author](figs/author.png)
+
 ![Taxonomy](figs/figure2.png)
 
 
@@ -32,6 +34,11 @@
 }
 
 ```
+
+
+---
+
+![Category](figs/category.png)
 
 
 ## 🔥 Table of Contents

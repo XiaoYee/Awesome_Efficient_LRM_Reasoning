@@ -165,6 +165,8 @@ To summarize, this survey makes the following key contributions to the literatur
 ### 🧩 Efficient Reasoning with Reinforcement Learning
 
 #### Efficient Reinforcement Learning with Length Reward
+
+- [HAWKEYE: Efficient Reasoning with Model Collaboration](https://arxiv.org/pdf/2504.00424v1) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/abs/2504.03234) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/abs/2503.04472) ![](https://img.shields.io/badge/abs-2025.03-red)

@@ -179,13 +179,14 @@ To summarize, this survey makes the following key contributions to the literatur
 ### 🧩 Efficient Reasoning with Reinforcement Learning
 
 #### Efficient Reinforcement Learning with Length Reward
-- [O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](https://arxiv.org/abs/2501.12570)
-- [Training Language Models to Reason Efficiently](https://arxiv.org/abs/2502.04463)
-- [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://www.arxiv.org/abs/2503.04697)
-- [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
-- [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/abs/2503.04472)
-- [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)
-- [ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296)
+- [O1-Pruner: Length-Harmonizing Fine-Tuning for O1-Like Reasoning Pruning](https://arxiv.org/abs/2501.12570)![](https://img.shields.io/badge/abs-2025.01-red)
+- [Training Language Models to Reason Efficiently](https://arxiv.org/abs/2502.04463)![](https://img.shields.io/badge/abs-2025.02-red)
+- [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://www.arxiv.org/abs/2503.04697)![](https://img.shields.io/badge/abs-2025.03-red)
+- [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)![](https://img.shields.io/badge/abs-2025.01-red)
+- [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/abs/2503.04472)![](https://img.shields.io/badge/abs-2025.03-red)
+- [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373)![](https://img.shields.io/badge/abs-2025.02-red)
+- [ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296)![](https://img.shields.io/badge/abs-2025.04-red)
+- [Think When You Need: Self-Adaptive Chain-of-Thought Learning](https://arxiv.org/abs/2504.03234)![](https://img.shields.io/badge/abs-2025.04-red)
   
 #### Efficient Reinforcement Learning without Length Reward
 - [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572)

@@ -9,6 +9,7 @@
 ---
 
 ## 🔔 News
+- [2025-04] We add more Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is more efficient to infer. 
 - [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction. 
 - [2025-03] We released our survey "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)". This is the **first survey** for efficient reasoning of **Large Reasoning Models**, covering both language and multimodality.
 - [2025-03] We created this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
@@ -224,6 +225,7 @@ To summarize, this survey makes the following key contributions to the literatur
 - [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](https://arxiv.org/abs/2502.20339)
 - [Compositional Reasoning with Transformers, RNNs, and Chain of Thought](https://arxiv.org/abs/2503.01544)
 - [Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558v1)
+- [Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models](https://arxiv.org/abs/2504.03624v1)
 
 
 

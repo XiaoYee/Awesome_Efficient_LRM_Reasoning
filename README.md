@@ -178,6 +178,8 @@ To summarize, this survey makes the following key contributions to the literatur
 - [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) ![](https://img.shields.io/badge/abs-2025.01-red)
   
 #### Efficient Reinforcement Learning without Length Reward
+
+- [Concise Reasoning via Reinforcement Learning](https://arxiv.org/abs/2504.05185v1) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning](https://arxiv.org/abs/2503.07572) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Think Smarter not Harder: Adaptive Reasoning with Inference Aware Optimization](https://arxiv.org/abs/2501.17974) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187) ![](https://img.shields.io/badge/abs-2024.12-red)

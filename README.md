@@ -143,6 +143,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Reasoning Chain Compression
 
+- [Z1: Efficient Test-time Scaling with Code](https://arxiv.org/abs/2504.00810) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Self-Training Elicits Concise Reasoning in Large Language Models](https://arxiv.org/abs/2502.20122) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Stepwise Perplexity-Guided Refinement for Efficient Chain-of-Thought Reasoning in Large Language Models](https://arxiv.org/abs/2502.13260) ![](https://img.shields.io/badge/abs-2025.02-red)

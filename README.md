@@ -115,6 +115,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Model Switch
 
+- [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [MixLLM: Dynamic Routing in Mixed Large Language Models](https://arxiv.org/abs/2502.18482) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding](https://arxiv.org/abs/2411.13157) ![](https://img.shields.io/badge/abs-2024.11-red)
 - [EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees](https://arxiv.org/abs/2406.16858) ![](https://img.shields.io/badge/abs-2024.06-red)

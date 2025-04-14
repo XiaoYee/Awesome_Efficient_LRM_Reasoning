@@ -107,6 +107,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### System Switch
 
+- [Fast-Slow-Thinking: Complex Task Solving with Large Language Models](https://arxiv.org/abs/2504.08690) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking](https://arxiv.org/abs/2501.01306) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918) ![](https://img.shields.io/badge/abs-2024.10-red)
 - [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/abs/2408.08862) ![](https://img.shields.io/badge/abs-2024.08-red)

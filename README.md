@@ -157,6 +157,8 @@ To summarize, this survey makes the following key contributions to the literatur
 
 
 #### Latent-Space SFT
+
+- [Beyond Chains of Thought: Benchmarking Latent-Space Reasoning Abilities in Large Language Models](https://arxiv.org/abs/2504.10615) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step](https://arxiv.org/abs/2405.14838) ![](https://img.shields.io/badge/abs-2024.05-red)
 - [CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation](https://arxiv.org/abs/2502.21074) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275) ![](https://img.shields.io/badge/abs-2025.02-red)

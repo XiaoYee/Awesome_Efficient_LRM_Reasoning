@@ -10,7 +10,7 @@
 
 ## 🔔 News
 
-- [2025-04] We include S1-Bench, designed to evaluate LRMs performance on simple tasks that favor intuitive system 1 thinking rather than deliberative system 2 reasoning.
+- [2025-04] We include two benchmarks for Efficient Reasoning: MME-CoT and S1-Bench.
 - [2025-04] We add Mamba Reasoning models (e.g M1) in Efficient Reasoning during Pre-training. It is naturally efficient to infer.
 - [2025-04] We add more Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is more efficient to infer. 
 - [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction. 
@@ -255,6 +255,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 - [S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models](https://arxiv.org/abs/2504.10368) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs](https://arxiv.org/abs/2503.15793) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/abs/2502.09621) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187) ![](https://img.shields.io/badge/abs-2024.12-red)
 
 

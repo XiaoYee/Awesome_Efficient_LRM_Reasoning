@@ -138,6 +138,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 - [Sampling-Efficient Test-Time Scaling: Self-Estimating the Best-of-N Sampling in Early Decoding](https://arxiv.org/abs/2503.01422) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/abs/2503.00031) ![](https://img.shields.io/badge/abs-2025.03-red)
+- [Scalable Best-of-N Selection for Large Language Models via Self-Certainty](https://arxiv.org/abs/2502.18581) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Meta-Reasoner: Dynamic Guidance for Optimized Inference-time Reasoning in Large Language Models](https://arxiv.org/abs/2502.19918) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback](https://arxiv.org/abs/2501.12895) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Fast Best-of-N Decoding via Speculative Rejection](https://arxiv.org/abs/2410.20290) ![](https://img.shields.io/badge/abs-2024.10-red)

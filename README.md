@@ -1,3 +1,5 @@
+<div align="center">
+
 # A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond
 [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2503.21614)  [![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/suzhaochen0110/status/1905461785693749709?s=46)
@@ -6,14 +8,17 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/XiaoYee/Awesome_Efficient_LRM_Reasoning?color=green) 
 
+</div>
+
 ---
 
 ## 🔔 News
 
+- [2025-04] We include AgentPrune, where efficient reasoning is important for agent system. 
 - [2025-04] We include two benchmarks for Efficient Reasoning: MME-CoT and S1-Bench.
-- [2025-04] We add Mamba Reasoning models (e.g M1) in Efficient Reasoning during Pre-training. It is naturally efficient to infer.
-- [2025-04] We add more Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is more efficient to infer. 
-- [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction. 
+- [2025-04] We add Mamba Reasoning models (e.g M1) and Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is naturally efficient to infer.
+- [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction.
+- [2025-04] 📢 Our work is reported by both [Synced (机器之心)](https://mp.weixin.qq.com/s/JfXG93uOt_lTAs1zECsEsw).
 - [2025-03] We released our survey "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)". This is the **first survey** for efficient reasoning of **Large Reasoning Models**, covering **language**, **multimodality**, **agent**, and **applications**. We provide several promising future directions in our survey.   
 - [2025-03] We created this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
 
@@ -94,6 +99,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Length Budgeting
 
+- [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach](https://arxiv.org/abs/2503.01141) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://arxiv.org/abs/2503.05179) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Chain of Draft: Thinking Faster by Writing Less](https://arxiv.org/abs/2502.18600) ![](https://img.shields.io/badge/abs-2025.02-red)
@@ -246,10 +252,11 @@ To summarize, this survey makes the following key contributions to the literatur
 - [X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability](https://arxiv.org/abs/2502.09990) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Deliberative alignment: Reasoning enables safer language models](https://arxiv.org/abs/2412.16339) ![](https://img.shields.io/badge/abs-2024.12-red)
 
-#### Building Efficient Reasoning Applications
+#### Building Efficient Reasoning Applications (RAG, Tool, Agent)
 
 - [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in Agentic Tasks](https://arxiv.org/abs/2502.08235) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Chain-of-Retrieval Augmented Generation](https://arxiv.org/abs/2501.14342) ![](https://img.shields.io/badge/abs-2025.01-red)
+- [Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems](https://arxiv.org/abs/2410.02506) ![](https://img.shields.io/badge/abs-2024.10-red)
 
 #### Evaluation and Benchmark
 

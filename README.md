@@ -18,7 +18,8 @@
 - [2025-04] We include two benchmarks for Efficient Reasoning: MME-CoT and S1-Bench.
 - [2025-04] We add Mamba Reasoning models (e.g M1) and Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is naturally efficient to infer.
 - [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction.
-- [2025-04] 📢 Our work is reported by both [Synced (机器之心)](https://mp.weixin.qq.com/s/JfXG93uOt_lTAs1zECsEsw) and [Deep Learning and NLP (深度学习自然语言处理)](https://mp.weixin.qq.com/s/0dSMJjxrtRwAijVQXDBCvw).
+- [2025-04] 📢 Our work is reported by both [Synced (机器之心)](https://mp.weixin.qq.com/s/JfXG93uOt_lTAs1zECsEsw) and [Zhuanzhi (专知)](https://mp.weixin.qq.com/s/VsRIB-yiKjoY2yp-kAmUNw).
+- [2025-03] 📢 Our work is reported by both [Deep Learning and NLP (深度学习自然语言处理)](https://mp.weixin.qq.com/s/0dSMJjxrtRwAijVQXDBCvw) and [Machine Learning and NLP (机器学习算法与自然语言处理)](https://mp.weixin.qq.com/s/xygYjKHetkm7nFT92fmQWA).
 - [2025-03] We released our survey "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)". This is the **first survey** for efficient reasoning of **Large Reasoning Models**, covering **language**, **multimodality**, **agent**, and **applications**. We provide several promising future directions in our survey.   
 - [2025-03] We created this repository to maintain a paper list on Awesome-Efficient-LRM-Reasoning.
 

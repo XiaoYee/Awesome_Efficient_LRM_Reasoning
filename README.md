@@ -15,7 +15,7 @@
 ## 🔔 News
 
 - [2025-04] We include AgentPrune, where efficient reasoning is important for agent system. 
-- [2025-04] We include two benchmarks for Efficient Reasoning: MME-CoT and S1-Bench.
+- [2025-04] We include benchmarks for Efficient Reasoning: MME-CoT, S1-Bench, DUMB500.
 - [2025-04] We add Mamba Reasoning models (e.g M1) and Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is naturally efficient to infer.
 - [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction.
 - [2025-04] 📢 Our work is reported by both [Synced (机器之心)](https://mp.weixin.qq.com/s/JfXG93uOt_lTAs1zECsEsw) and [Zhuanzhi (专知)](https://mp.weixin.qq.com/s/VsRIB-yiKjoY2yp-kAmUNw).
@@ -100,6 +100,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Length Budgeting
 
+- [Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models](https://arxiv.org/abs/2504.13626) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach](https://arxiv.org/abs/2503.01141) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching](https://arxiv.org/abs/2503.05179) ![](https://img.shields.io/badge/abs-2025.03-red)
@@ -261,6 +262,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Evaluation and Benchmark
 
+- [THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models](https://arxiv.org/abs/2504.13367v1) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models](https://arxiv.org/abs/2504.10368) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs](https://arxiv.org/abs/2503.15793) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/abs/2502.09621) ![](https://img.shields.io/badge/abs-2025.02-red)

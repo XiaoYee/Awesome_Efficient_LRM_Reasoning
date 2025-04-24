@@ -100,6 +100,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Length Budgeting
 
+- [Dynamic Early Exit in Reasoning Models](https://arxiv.org/abs/2504.15895) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models](https://arxiv.org/abs/2504.13626) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [How Well do LLMs Compress Their Own Chain-of-Thought? A Token Complexity Approach](https://arxiv.org/abs/2503.01141) ![](https://img.shields.io/badge/abs-2025.03-red)

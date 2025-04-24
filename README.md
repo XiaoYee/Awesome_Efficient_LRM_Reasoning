@@ -127,6 +127,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Model Switch
 
+- [SplitReason: Learning To Offload Reasoning](https://arxiv.org/abs/2504.16379) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [MixLLM: Dynamic Routing in Mixed Large Language Models](https://arxiv.org/abs/2502.18482) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Closer Look at Efficient Inference Methods: A Survey of Speculative Decoding](https://arxiv.org/abs/2411.13157) ![](https://img.shields.io/badge/abs-2024.11-red)

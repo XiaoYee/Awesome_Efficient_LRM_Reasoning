@@ -29,6 +29,7 @@
 
 ![Taxonomy](figs/figure2.png)
 
+## Citation
 > If you find our survey useful for your research, please consider citing:
 
 ```

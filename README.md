@@ -14,6 +14,7 @@
 
 ## 🔔 News
 
+- [2025-05] Welcome to our latest paper "[Scaling Reasoning, Losing Control](https://arxiv.org/pdf/2505.14810)", which shows that the longer the reasoning chain, the poorer its instruction-following ability. Therefore, efficient reasoning may also be important for instruction following in LRMs.
 - [2025-04] We include AgentPrune, where efficient reasoning is important for agent system. 
 - [2025-04] We include benchmarks for Efficient Reasoning: MME-CoT, S1-Bench, DUMB500.
 - [2025-04] We add Mamba Reasoning models (e.g M1) and Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is naturally efficient to infer.

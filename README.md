@@ -195,6 +195,9 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Reinforcement Learning with Length Reward
 
+- [When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning](https://arxiv.org/pdf/2505.15400) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/pdf/2505.15612) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning](https://arxiv.org/pdf/2505.16315) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [ARM: Adaptive Reasoning Model](https://arxiv.org/pdf/2505.20258) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning](https://arxiv.org/abs/2504.21370) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [HAWKEYE: Efficient Reasoning with Model Collaboration](https://arxiv.org/abs/2504.00424v1) ![](https://img.shields.io/badge/abs-2025.04-red)
@@ -263,6 +266,7 @@ To summarize, this survey makes the following key contributions to the literatur
   
 #### Efficient Test-time Scaling and Infinity Thinking
 
+- [Value-Guided Search for Efficient Chain-of-Thought Reasoning](https://arxiv.org/pdf/2505.17373) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling](https://arxiv.org/pdf/2505.19187) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/abs/2503.00031) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Dynamic self-consistency: Leveraging reasoning paths for efficient llm sampling](https://arxiv.org/abs/2408.17017) ![](https://img.shields.io/badge/abs-2024.08-red)

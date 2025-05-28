@@ -195,6 +195,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Reinforcement Learning with Length Reward
 
+- [ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models](https://www.arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning](https://arxiv.org/pdf/2505.15400) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/pdf/2505.15612) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Incentivizing Dual Process Thinking for Efficient Large Language Model Reasoning](https://arxiv.org/pdf/2505.16315) ![](https://img.shields.io/badge/abs-2025.05-red)

@@ -14,8 +14,10 @@
 
 ## 🔔 News
 
-- [2025-05] Welcome to our latest paper "[Scaling Reasoning, Losing Control](https://arxiv.org/pdf/2505.14810)", which shows that the longer the reasoning chain, the poorer its instruction-following ability. Therefore, efficient reasoning may also be important for instruction following in LRMs.
-- [2025-04] We include AgentPrune, where efficient reasoning is important for agent system. 
+- [2025-05] We include LIMOPro for Efficient and Effective Reasoning in Test-time Scaling. 
+- [2025-05] We update more papers on **adaptive reasoning**, which describe how a system/model autonomously switches between long and short reasoning chains based on problem complexity.
+- [2025-05] Welcome to our latest paper "[Scaling Reasoning, Losing Control](https://arxiv.org/pdf/2505.14810)", which shows that the longer the reasoning chain, the poorer its instruction-following ability. Therefore, efficient reasoning may also be important for **instruction following** in LRMs.
+- [2025-04] We include AgentPrune, where efficient reasoning is important for agent systems. 
 - [2025-04] We include benchmarks for Efficient Reasoning: MME-CoT, S1-Bench, DUMB500.
 - [2025-04] We add Mamba Reasoning models (e.g M1) and Hybrid models (e.g Mamba-Transformer) in Efficient Reasoning during Pre-training. It is naturally efficient to infer.
 - [2025-04] We add a new "Model Merge" category in Efficient Reasoning during Inference. It is feasible to be a promising direction.
@@ -102,6 +104,10 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Length Budgeting
 
+- [Done Is Better than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition](https://arxiv.org/pdf/2505.19788) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Concise Reasoning, Big Gains: Pruning Long Reasoning Trace with Difficulty-Aware Prompting](https://arxiv.org/pdf/2505.19716) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting](https://arxiv.org/pdf/2505.18822) ![](https://img.shields.io/badge/abs-2025.05-red)
+- [Think or Not? Exploring Thinking Efficiency in Large Reasoning Models via an Information-Theoretic Lens](https://arxiv.org/pdf/2505.18237) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Dynamic Early Exit in Reasoning Models](https://arxiv.org/abs/2504.15895) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models](https://arxiv.org/abs/2504.13626) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Reasoning Models Can Be Effective Without Thinking](https://arxiv.org/abs/2504.09858) ![](https://img.shields.io/badge/abs-2025.04-red)
@@ -189,6 +195,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Reinforcement Learning with Length Reward
 
+- [ARM: Adaptive Reasoning Model](https://arxiv.org/pdf/2505.20258) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [ShorterBetter: Guiding Reasoning Models to Find Optimal Inference Length for Efficient Reasoning](https://arxiv.org/abs/2504.21370) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [HAWKEYE: Efficient Reasoning with Model Collaboration](https://arxiv.org/abs/2504.00424v1) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [ThinkPrune: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/abs/2504.01296) ![](https://img.shields.io/badge/abs-2025.04-red)
@@ -256,6 +263,7 @@ To summarize, this survey makes the following key contributions to the literatur
   
 #### Efficient Test-time Scaling and Infinity Thinking
 
+- [LIMOPro: Reasoning Refinement for Efficient and Effective Test-time Scaling](https://arxiv.org/pdf/2505.19187) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/abs/2503.00031) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [Dynamic self-consistency: Leveraging reasoning paths for efficient llm sampling](https://arxiv.org/abs/2408.17017) ![](https://img.shields.io/badge/abs-2024.08-red)
 
@@ -277,7 +285,6 @@ To summarize, this survey makes the following key contributions to the literatur
 - [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs](https://arxiv.org/abs/2503.15793) ![](https://img.shields.io/badge/abs-2025.03-red)
 - [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](https://arxiv.org/abs/2502.09621) ![](https://img.shields.io/badge/abs-2025.02-red)
 - [Do NOT Think That Much for 2+3=? On the Overthinking of o1-Like LLMs](https://arxiv.org/abs/2412.21187) ![](https://img.shields.io/badge/abs-2024.12-red)
-
 
 ---
 

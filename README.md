@@ -136,6 +136,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Model Switch
 
+- [Accelerated Test-Time Scaling with Model-Free Speculative Sampling](https://arxiv.org/abs/2506.04708) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Learning Adaptive Parallel Reasoning with Language Models](https://arxiv.org/abs/2504.15466) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [SplitReason: Learning To Offload Reasoning](https://arxiv.org/abs/2504.16379) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning](https://arxiv.org/abs/2504.07891) ![](https://img.shields.io/badge/abs-2025.04-red)

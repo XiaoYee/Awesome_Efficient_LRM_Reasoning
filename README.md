@@ -127,6 +127,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### System Switch
 
+- [DynamicMind: A Tri-Mode Thinking System for Large Language Models](https://arxiv.org/pdf/2506.05936) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Fast-Slow-Thinking: Complex Task Solving with Large Language Models](https://arxiv.org/abs/2504.08690) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking](https://arxiv.org/abs/2501.01306) ![](https://img.shields.io/badge/abs-2025.01-red)
 - [Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces](https://arxiv.org/abs/2410.09918) ![](https://img.shields.io/badge/abs-2024.10-red)
@@ -197,6 +198,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Reinforcement Learning with Length Reward
 
+- [How Far Are We from Optimal Reasoning Efficiency?](https://arxiv.org/pdf/2506.07104) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models](https://www.arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning](https://arxiv.org/pdf/2505.15400) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Learn to Reason Efficiently with Adaptive Length-based Reward Shaping](https://arxiv.org/pdf/2505.15612) ![](https://img.shields.io/badge/abs-2025.05-red)

@@ -14,6 +14,9 @@
 
 ## 🔔 News
 
+
+- [2025-06] Welcome to our latest papers "[OpenThinkIMG](https://github.com/zhaochen0110/OpenThinkIMG)" and "[Thinking with Images for Multimodal Reasoning](https://github.com/zhaochen0110/Awesome_Think_With_Images?tab=readme-ov-file)". Efficient reasoning is important for multimodality and may be especially important for **Thinking with images**.
+- [2025-06] Welcome to our latest paper "[Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/pdf/2506.04207)". We propose an Efficient-Length Reward for training multimodal reasoning models.
 - [2025-05] We include LIMOPro for Efficient and Effective Reasoning in Test-time Scaling. 
 - [2025-05] We update more papers on **adaptive reasoning**, which describe how a system/model autonomously switches between long and short reasoning chains based on problem complexity.
 - [2025-05] Welcome to our latest paper "[Scaling Reasoning, Losing Control](https://arxiv.org/pdf/2505.14810)", which shows that the longer the reasoning chain, the poorer its instruction-following ability. Therefore, efficient reasoning may also be important for **instruction following** in LRMs.
@@ -263,6 +266,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Multimodal Reasoning and Video Reasoning
 
+- [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/pdf/2506.04207] ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tunin](https://arxiv.org/abs/2503.16188) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://arxiv.org/abs/2505.16854) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Fast-Slow Thinking for Large Vision-Language Model Reasoning](https://arxiv.org/abs/2504.18458) ![](https://img.shields.io/badge/abs-2025.04-red)

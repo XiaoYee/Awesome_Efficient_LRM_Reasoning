@@ -14,7 +14,7 @@
 
 ## 🔔 News
 
-
+- [2025-07] Welcome to our latest papers "[SafeWork-R1: Coevolving Safety and Intelligence under the AI-45^{\circ} Law](https://arxiv.org/pdf/2507.18576v3)". Efficient reasoning is important for model safety and building safe models. 
 - [2025-06] Welcome to our latest papers "[OpenThinkIMG](https://github.com/zhaochen0110/OpenThinkIMG)" and "[Thinking with Images for Multimodal Reasoning](https://github.com/zhaochen0110/Awesome_Think_With_Images?tab=readme-ov-file)". Efficient reasoning is important for multimodality and may be especially important for **Thinking with images**.
 - [2025-06] Welcome to our latest paper "[Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/pdf/2506.04207)". We propose an Efficient-Length Reward for training multimodal reasoning models.
 - [2025-06] We include [MEM1](https://www.arxiv.org/pdf/2506.15841), where efficient reasoning is important for building Long-Horizon Agents. 

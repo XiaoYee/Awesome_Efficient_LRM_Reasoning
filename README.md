@@ -14,6 +14,7 @@
 
 ## 🔔 News
 
+- [2025-09] Welcome to our latest survey paper "[A Survey of Reinforcement Learning for Large Reasoning Models](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)". **Efficient reasoning** is important for Reinforcement Learning of Large Reasoning Models. 
 - [2025-08] Welcome to our latest survey paper "[Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://github.com/weigao266/Awesome-Efficient-Arch?tab=readme-ov-file)". **Efficient architectures** are natural for achieving efficient reasoning.  
 - [2025-07] Welcome to our latest paper "[SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law](https://arxiv.org/pdf/2507.18576v3)". Efficient reasoning is important for **model safety** and building trustworthy models. 
 - [2025-06] Welcome to our latest papers "[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://github.com/zhaochen0110/OpenThinkIMG)" and "[Thinking with Images for Multimodal Reasoning](https://github.com/zhaochen0110/Awesome_Think_With_Images?tab=readme-ov-file)". Efficient reasoning is important for multimodality and may be especially important for **Thinking with images**.

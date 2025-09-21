@@ -297,6 +297,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Evaluation and Benchmark
 
+- [ICCV 2025 MARS2 Workshop and Challenge "Multimodal Reasoning and Slow Thinking in the Large Model Era: Towards System 2 and Beyond''](https://arxiv.org/abs/2509.14142) ![](https://img.shields.io/badge/abs-2025.09-red)
 - [THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models](https://arxiv.org/abs/2504.13367v1) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models](https://arxiv.org/abs/2504.10368) ![](https://img.shields.io/badge/abs-2025.04-red)
 - [DNA Bench: When Silence is Smarter -- Benchmarking Over-Reasoning in Reasoning LLMs](https://arxiv.org/abs/2503.15793) ![](https://img.shields.io/badge/abs-2025.03-red)

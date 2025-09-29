@@ -210,7 +210,7 @@ To summarize, this survey makes the following key contributions to the literatur
 - [SABER: Switchable and Balanced Training for Efficient LLM Reasoning](https://arxiv.org/abs/2508.10026) ![](https://img.shields.io/badge/pdf-2025.08-red)
 - [Promoting Efficient Reasoning with Verifiable Stepwise Reward](https://arxiv.org/abs/2508.10293) ![](https://img.shields.io/badge/pdf-2025.08-red)
 - [Aware First, Think Less: Dynamic Boundary Self-Awareness Drives Extreme Reasoning Efficiency in Large Language Models](https://arxiv.org/abs/2508.11582) ![](https://img.shields.io/badge/pdf-2025.08-red)
-- [SmartThinker: Learning to Compress and Preserve Reasoning by Step-Level Length Control] ![](https://arxiv.org/abs/2507.04348)(https://img.shields.io/badge/pdf-2025.07-red)
+- [SmartThinker: Learning to Compress and Preserve Reasoning by Step-Level Length Control](https://arxiv.org/abs/2507.04348) ![](https://img.shields.io/badge/pdf-2025.07-red)
 - [How Far Are We from Optimal Reasoning Efficiency?](https://arxiv.org/pdf/2506.07104) ![](https://img.shields.io/badge/abs-2025.06-red)
 - [ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models](https://www.arxiv.org/pdf/2505.17250) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [When to Continue Thinking: Adaptive Thinking Mode Switching for Efficient Reasoning](https://arxiv.org/pdf/2505.15400) ![](https://img.shields.io/badge/abs-2025.05-red)

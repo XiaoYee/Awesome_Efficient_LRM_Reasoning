@@ -204,6 +204,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Reinforcement Learning with Length Reward
 
+- [Beyond Token Length: Step Pruner for Efficient and Accurate Reasoning in Large Language Models](https://arxiv.org/pdf/2510.03805) ![](https://img.shields.io/badge/pdf-2025.10-red)
 - [Reconsidering Overthinking: Penalizing Internal and External Redundancy in CoT Reasoning](https://arxiv.org/abs/2508.02178) ![](https://img.shields.io/badge/pdf-2025.08-red)
 - [Train Long, Think Short: Curriculum Learning for Efficient Reasoning](https://arxiv.org/abs/2508.08940) ![](https://img.shields.io/badge/pdf-2025.08-red)
 - [Sample More to Think Less: Group Filtered Policy Optimization for Concise Reasoning](https://arxiv.org/abs/2508.09726) ![](https://img.shields.io/badge/pdf-2025.08-red)

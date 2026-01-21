@@ -14,6 +14,7 @@
 
 ## 🔔 News
 
+- [2026-01] Welcome to our latest survey paper "[Toward Efficient Agents: A Survey of Memory, Tool learning, and Planning](https://github.com/yxf203/Awesome-Efficient-Agents)". **Efficient reasoning** is important for building efficient agents. 
 - [2025-12] We have updated recent RL papers for efficient reasoning in our survey paper. Welcome to our v2 version "[A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/abs/2503.21614)".
 - [2025-09] Welcome to our latest survey paper "[A Survey of Reinforcement Learning for Large Reasoning Models](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs)". **Efficient reasoning** is important for Reinforcement Learning of Large Reasoning Models. 
 - [2025-08] Welcome to our latest survey paper "[Speed Always Wins: A Survey on Efficient Architectures for Large Language Models](https://github.com/weigao266/Awesome-Efficient-Arch?tab=readme-ov-file)". **Efficient architectures** are natural for achieving efficient reasoning.  

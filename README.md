@@ -38,6 +38,8 @@
 
 ![Author](figs/author.png)
 
+![Scope](figs/Scope.png)
+
 ![Taxonomy](figs/figure2.png)
 
 ## Citation

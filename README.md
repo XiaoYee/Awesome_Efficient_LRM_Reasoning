@@ -114,6 +114,7 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Length Budgeting
 
+- [Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models](https://arxiv.org/abs/2605.17672) ![](https://img.shields.io/badge/abs-2026.05-red)
 - [Done Is Better than Perfect: Unlocking Efficient Reasoning by Structured Multi-Turn Decomposition](https://arxiv.org/pdf/2505.19788) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Concise Reasoning, Big Gains: Pruning Long Reasoning Trace with Difficulty-Aware Prompting](https://arxiv.org/pdf/2505.19716) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting](https://arxiv.org/pdf/2505.18822) ![](https://img.shields.io/badge/abs-2025.05-red)

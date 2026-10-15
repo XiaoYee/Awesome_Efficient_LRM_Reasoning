@@ -280,6 +280,8 @@ To summarize, this survey makes the following key contributions to the literatur
 
 #### Efficient Multimodal Reasoning and Video Reasoning
 
+- [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) ![](https://img.shields.io/badge/abs-2026.01-red) [[Code](https://github.com/MCG-NJU/Video-o3)]
+
 - [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/pdf/2506.04207] ![](https://img.shields.io/badge/abs-2025.06-red)
 - [Think or Not Think: A Study of Explicit Thinking in Rule-Based Visual Reinforcement Fine-Tunin](https://arxiv.org/abs/2503.16188) ![](https://img.shields.io/badge/abs-2025.05-red)
 - [Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models](https://arxiv.org/abs/2505.16854) ![](https://img.shields.io/badge/abs-2025.05-red)
